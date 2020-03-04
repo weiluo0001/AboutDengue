@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/AboutDengue/precache-manifest.178459ae912703e57200dbf04518fc92.js"
+  "/AboutDengue/precache-manifest.59155b62d19b65d2b48ad5e8bfeec2d9.js"
 );
 
 self.addEventListener('message', (event) => {

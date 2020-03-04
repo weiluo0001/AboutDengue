@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a95cc153c2ab488565803356235d453",
+    "revision": "adeaac1aa59514a78a64da4008671e76",
     "url": "/AboutDengue/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AboutDengue/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "f260802bc0ba9bd425d3",
-    "url": "/AboutDengue/static/css/main.fa708336.chunk.css"
+    "revision": "bb0d6269443853e046d2",
+    "url": "/AboutDengue/static/css/main.4457769a.chunk.css"
   },
   {
     "revision": "fdf9063083dd45599187",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AboutDengue/static/js/2.5c751249.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f260802bc0ba9bd425d3",
-    "url": "/AboutDengue/static/js/main.bfa759b9.chunk.js"
+    "revision": "bb0d6269443853e046d2",
+    "url": "/AboutDengue/static/js/main.92addd29.chunk.js"
   },
   {
     "revision": "d189f7120c350a9cb00c",
